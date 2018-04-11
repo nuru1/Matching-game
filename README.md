@@ -1,2 +1,2 @@
 # Matching-game
-Simple image matching game using javascript
+A simple image matching game using javascript.
