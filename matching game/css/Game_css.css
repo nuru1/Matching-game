@@ -1,0 +1,26 @@
+
+div#mBoard{
+	background:#e3f2fd;
+	border:#999 1px solid;
+	width:670px;
+	height:540px;
+	padding:24px;
+	margin:0px auto;
+}
+
+
+div#mBoard > div{
+	background:black no-repeat;
+	object-fit: contain;	
+	background-size: 100% 100%;
+	border:#000 1px solid;
+	width:71px;
+	height:71px;
+	float:left;
+	margin:10px;
+	padding:20px;
+	font-size:64px;
+	cursor:pointer;
+	text-align:center;
+}
+
